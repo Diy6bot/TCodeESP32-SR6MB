@@ -31,5 +31,20 @@ This is a modified version of the Tempests TCode sketch (https://www.patreon.com
 # Usage
 This code is specifically designed for the SR6 motherboard and will work optimally on it. It may also work on other ESP32 boards, but some features may not be fully functional.
 
+This is the new features with their corresponding pin.
+<ul>
+  <li>Pin 0: Twist feedback</li>
+  <li>Pin 16: Case fan</li>
+  <li>Pin 17: Squeeze servo</li>
+  <li>Pin 18: Vibration channel 1</li>
+  <li>Pin 21: OLED DSA</li>
+  <li>Pin 22: OLED SCL</li>
+  <li>Pin 26: Vibration channel 4</li>
+  <li>Pin 33: Heater</li>
+  <li>Pin 34: UP button</li>
+  <li>Pin 35: ENT button</li>
+  <li>Pin 39: DOWN button</li>
+</ul>
+
 # Contributing
 If you encounter any bugs or errors while using this code, please let me know. Your assistance in identifying and resolving any issues is greatly appreciated.
