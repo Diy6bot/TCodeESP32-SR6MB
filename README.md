@@ -32,4 +32,4 @@ This is a modified version of the Tempests TCode sketch that includes a menu spe
 This code is specifically designed for the SR6 motherboard and will work optimally on it. It may also work on other ESP32 boards, but some features may not be fully functional.
 
 # Contributing
-Information on how others can contribute to the project, including guidelines for submitting pull requests.
+If you encounter any bugs or errors while using this code, please let me know. Your assistance in identifying and resolving any issues is greatly appreciated.
