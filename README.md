@@ -18,7 +18,15 @@ This is a modified version of the Tempests TCode sketch that includes a menu spe
 <p>If you only want to install and use the code on your ESP32, you can find the latest binary file under the "Releases" section.</p>
 
 # Installation
-Instructions on how to install and set up the project.
+
+<ol>
+  <li>Open the code in the Arduino IDE or any other compatible program that has the necessary libraries installed.</li>
+  <li>Upload the code to your ESP32 by selecting the correct port and clicking the "Upload" button.</li>
+  <li>Alternatively, you can download the binary file under the "Releases" section and use the included batch file named "flash." To do this, open the batch file and type in the COM port that your ESP32 is on, then press enter.</li>
+  <li>To put the ESP32 into boot mode, press the "boot" button when prompted on the screen.</li>
+</ol>
+
+<p>Note: Make sure to follow any additional setup or configuration steps that may be necessary before uploading the code to your ESP32.</p>
 
 # Usage
 Instructions on how to use the project, including any necessary configuration or setup steps.
