@@ -1,2 +1,2 @@
 # TCodeESP32-SR6MB
-This is a fork of Tempests TCode sketch. It adds a menu for SR6MB. The menu is controlled whit 3 buttons and making this code easier to use. No coding is necessary for the user. Additional features added is, Sleeve Heater, Display, Buttons, Menu, 4 Vibe channels & Squeeze Servo Channel
+This is a modified version of the Tempests TCode sketch that includes a menu specifically for SR6MB. The menu can be easily accessed and navigated using just three buttons, so no coding skills are required for the user. The modified sketch also includes additional features such as a sleeve heater, a display, buttons, a menu, four vibration channels, and a squeeze servo channel.
