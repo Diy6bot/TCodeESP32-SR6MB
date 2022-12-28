@@ -44,6 +44,8 @@ This is the new features with their corresponding pin.
   <li>Pin 34: UP button</li>
   <li>Pin 35: ENT button</li>
   <li>Pin 39: DOWN button</li>
+  <li>Pin 32: Internal temp sensor</li>
+  <li>Pin 5: External temp sensor (Sleeve case)</li>
 </ul>
 
 # Contributing
