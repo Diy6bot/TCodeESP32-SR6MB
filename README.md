@@ -31,7 +31,7 @@ This is a modified version of the Tempests TCode sketch (https://www.patreon.com
 # Usage
 This code is specifically designed for the SR6 motherboard and will work optimally on it. It may also work on other ESP32 boards, but some features may not be fully functional.
 
-This is the new features with their corresponding pin.
+This is the new features with their corresponding pin. On a 38-pin ESP32, some features will be missing if a 30-pin ESP32 is used.
 <ul>
   <li>Pin 0: Twist feedback</li>
   <li>Pin 16: Case fan</li>
