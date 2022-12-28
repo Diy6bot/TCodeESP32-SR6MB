@@ -4,14 +4,14 @@ This is a modified version of the Tempests TCode sketch that includes a menu spe
 # Prerequisites
 To open and compile this code, you will need to have the following libraries installed:
 
-SPI.h
-Wire.h
-Adafruit_GFX.h
-Adafruit_SSD1306.h
-OneWire.h
-DallasTemperature.h
-EEPROM.h
-Preferences.h
+#SPI.h
+#Wire.h
+#Adafruit_GFX.h
+#Adafruit_SSD1306.h
+#OneWire.h
+#DallasTemperature.h
+#EEPROM.h
+#Preferences.h
 
 If you only want to install and use the code on your ESP32, you can find the latest binary file under the "Releases" section.
 
